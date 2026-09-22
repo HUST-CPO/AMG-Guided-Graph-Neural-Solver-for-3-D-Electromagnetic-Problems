@@ -1,0 +1,1 @@
+# AMG-Guided-Graph-Neural-Solver-for-3-D-Electromagnetic-Problems
