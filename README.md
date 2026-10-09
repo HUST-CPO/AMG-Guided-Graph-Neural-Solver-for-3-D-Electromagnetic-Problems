@@ -96,7 +96,6 @@ The parameter ranges and sample counts below describe the datasets used in the p
 <div align="center">
   <img src="Fig/FSS Array.jpg" alt="FSS arrays and transfer learning" width="75%">
   <br>
-  <em>Paper Fig. 5(a): FSS arrays and training strategies.</em>
 </div>
 
 The $3\times3$ arrays use the same geometric ranges as the FSS unit cells.
