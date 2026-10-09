@@ -10,7 +10,6 @@ If you find this project useful for your research, please consider giving it a s
 <div align="center">
   <img src="Fig/Fundamental.png" alt="AMG-guided graph neural solver" width="90%">
   <br>
-  <em>Paper Fig. 2: framework of the AMG-guided graph neural solver.</em>
 </div>
 
 ## Usage
@@ -56,7 +55,6 @@ The parameter ranges and sample counts below describe the datasets used in the p
 <div align="center">
   <img src="Fig/FSS Unit.png" alt="Basic 3-D scatterers" width="65%">
   <br>
-  <em>Paper Fig. 3(a): ellipsoid, cylinder, and cuboid geometries.</em>
 </div>
 
 **Simulation settings:**
@@ -80,7 +78,6 @@ The parameter ranges and sample counts below describe the datasets used in the p
 <div align="center">
   <img src="Fig/FSS Array.jpg" alt="FSS unit cells" width="65%">
   <br>
-  <em>Paper Fig. 4(a): parameterized FSS unit-cell geometries.</em>
 </div>
 
 **Simulation settings:**
