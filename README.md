@@ -103,7 +103,7 @@ The $3\times3$ arrays use the same geometric ranges as the FSS unit cells.
 - Frequency: 2-3.8 GHz
 - Normal incidence: 315 full-data samples and 63 reduced-data samples
 - Oblique incidence: 270 full-data samples and 54 reduced-data samples
-- Oblique-incidence angle: $8^\circ$-$30^\circ$
+- Oblique-incidence angle: $8^\circ-30^\circ$
 - Transfer route: FSS unit cells -> normal-incidence arrays -> oblique-incidence arrays
 
 ## Citation
