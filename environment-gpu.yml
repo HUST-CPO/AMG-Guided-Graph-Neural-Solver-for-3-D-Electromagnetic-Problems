@@ -1,0 +1,31 @@
+name: femgrl-gpu
+
+channels:
+  - pyg
+  - pytorch
+  - nvidia
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pip>=24.0
+
+  # Numerical and analysis stack. These versions match the versions recorded
+  # in the project benchmark reports where available.
+  - numpy=2.0.2
+  - scipy=1.13.1
+  - scikit-learn=1.6.1
+  - pyamg=5.3.0
+  - matplotlib=3.9.4
+  - threadpoolctl=3.6.0
+
+  # The reference runs used PyTorch 2.4.0 with its CUDA 11.8 runtime. A recent
+  # NVIDIA driver can run this bundled runtime without a system CUDA toolkit.
+  - pytorch=2.4.0
+  - pytorch-cuda=11.8
+  - pyg=2.6.1
+
+  # DiagScale preprocessing requires a complex-scalar PETSc build.
+  - "petsc=3.24.3=complex*"
+  - petsc4py=3.24.3
+

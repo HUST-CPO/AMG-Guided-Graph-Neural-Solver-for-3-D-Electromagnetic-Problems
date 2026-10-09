@@ -1,0 +1,20 @@
+# CUDA 11.8 installation. Only an NVIDIA driver is required at runtime; the
+# CUDA user-space libraries are bundled in the PyTorch wheel.
+--extra-index-url https://download.pytorch.org/whl/cu118
+--find-links https://data.pyg.org/whl/torch-2.4.0+cu118.html
+
+torch==2.4.0+cu118
+torch-geometric==2.6.1
+torch-scatter==2.1.2+pt24cu118
+
+numpy==2.0.2
+scipy==1.13.1
+scikit-learn==1.6.1
+pyamg==5.3.0
+matplotlib==3.9.4
+threadpoolctl==3.6.0
+
+# PETSc is intentionally not installed from PyPI: DiagScale preprocessing
+# needs a complex-scalar PETSc build. Use environment-gpu.yml when running
+# that step, or install a matching complex PETSc and petsc4py separately.
+
