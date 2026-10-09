@@ -6,12 +6,6 @@ This repository provides the training code for an algebraic multigrid (AMG)-guid
 
 If you find this project useful for your research, please consider giving it a star and citing the paper.
 
-<!-- Use the complete Fig. 2 from the paper here. -->
-<div align="center">
-  <img src="Fig/Fundamental.png" alt="AMG-guided graph neural solver" width="90%">
-  <br>
-</div>
-
 ## Usage
 
 ### Scripts
@@ -53,7 +47,7 @@ The parameter ranges and sample counts below describe the datasets used in the p
 
 <!-- Use panel (a) from Fig. 3 of the paper here. -->
 <div align="center">
-  <img src="Fig/FSS Unit.png" alt="Basic 3-D scatterers" width="65%">
+  <img src="Fig/Fundamental.png" alt="Basic 3-D scatterers" width="65%">
   <br>
 </div>
 
@@ -76,7 +70,7 @@ The parameter ranges and sample counts below describe the datasets used in the p
 
 <!-- Use panel (a) from Fig. 4 of the paper here. -->
 <div align="center">
-  <img src="Fig/FSS Array.jpg" alt="FSS unit cells" width="65%">
+  <img src="Fig/FSS Unit.png" alt="FSS unit cells" width="65%">
   <br>
 </div>
 
@@ -100,7 +94,7 @@ The parameter ranges and sample counts below describe the datasets used in the p
 
 <!-- Use panel (a) from Fig. 5 of the paper here. -->
 <div align="center">
-  <img src="images/fig5a_fss_arrays.png" alt="FSS arrays and transfer learning" width="75%">
+  <img src="Fig/FSS Array.jpg" alt="FSS arrays and transfer learning" width="75%">
   <br>
   <em>Paper Fig. 5(a): FSS arrays and training strategies.</em>
 </div>
