@@ -56,7 +56,7 @@ The parameter ranges and sample counts below describe the datasets used in the p
 - Relative permittivity: $\varepsilon_r=-820.64+142.55i$
 - Frequency: 3 GHz
 - Computational domain: a cube with side length 0.15 m
-- Incidence angle: $0^\circ$-$90^\circ$
+- Incidence angle: $0^\circ-90^\circ$
 - Boundary condition: SBC
 - Dataset size: 912 samples, with 71,061 DOFs on average
 
