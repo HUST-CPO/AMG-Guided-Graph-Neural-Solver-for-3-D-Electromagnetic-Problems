@@ -108,12 +108,5 @@ The $3\times3$ arrays use the same geometric ranges as the FSS unit cells.
 
 ## Citation
 
-```bibtex
-@misc{wang2026amgguided,
-  title  = {An AMG-Guided Graph Neural Solver for 3-D Finite-Element Electromagnetic Modeling},
-  author = {Jingwei Wang and Zexuan Zhang and Kun Liang and Yuntian Chen},
-  year   = {2026},
-  note   = {Preprint}
-}
-```
+If you use this code, please cite the accompanying paper (citation to be added upon publication).
 
